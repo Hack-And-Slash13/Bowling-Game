@@ -1,2 +1,3 @@
-# Bowling-Game
-Bowling Game. It's a game about bowling. I'll think of a better name later.
+# Bowling Game
+
+This is a game I'm working on with Unity. It's not done yet though
